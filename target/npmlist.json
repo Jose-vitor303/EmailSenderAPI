@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"backend","dependencies":{"cors":{"version":"2.8.5"},"dotenv":{"version":"16.3.1"},"express-async-handler":{"version":"1.2.0"},"express":{"version":"4.18.2"},"nodemailer":{"version":"6.9.5"},"nodemon":{"version":"3.0.1"}}}
